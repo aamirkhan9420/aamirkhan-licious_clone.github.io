@@ -1,0 +1,96 @@
+.searchHome_container{
+    margin-top: 100px;
+    height: fit-content;
+    width: 100%;
+    border: 3px solid yellow;
+    padding-top:100px ;
+    padding-bottom:100px ;
+
+}
+.searh_parent{
+    margin: auto;
+    min-height:100px;
+    width: 65%;
+    border: 3px solid red;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+   
+}
+.search_single_div{
+    border: 1px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    height: 100%;
+
+}
+.single_img_div{
+  width: 20%;
+  height: 100%;
+}
+.single_img_div>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+
+.single_prod_parent{
+  border: 1px solid red;
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 2px;
+  gap: 20px;
+}
+.single_prod_parent>h2{
+    text-align: left;
+    font-size: 15px;
+    
+    color: gray;
+}
+.price_btn_container{
+     width: 100%;
+    height: 50%;
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+   
+}
+.price_btn_container>div{
+    border: 1px solid red;
+}
+.cutprice{
+    text-decoration: line-through;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+
+.btnadd_tocart{
+    font-size: 9px;
+    padding: 8px;
+    color: #D11243;
+    border-color: #D11243;
+    border-radius: 5px;
+
+}
+.price_waight{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+.price_waight>h3{
+    font-size: 13px;
+    color: gray;
+    font-weight: 500;
+
+}
