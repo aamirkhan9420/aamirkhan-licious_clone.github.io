@@ -32,8 +32,9 @@ let locationstate=location.state
 
 
   const handlePost = (el) => {
-
+   console.log("hello")
     cartPost(el).then((res)=>{
+   
        cartGet(dispatch)
     
       let count = JSON.parse(localStorage.getItem("total")) || 0
@@ -149,8 +150,9 @@ console.log(cartData)
   }
 
   const handleQuantityIncreament = (id) => {
+    console.log("helo")
     let count = JSON.parse(localStorage.getItem("total")) || 0
-
+    
 cartData.map((item) => {
       if (item.id === id) {
         console.log(typeof item.quantity)

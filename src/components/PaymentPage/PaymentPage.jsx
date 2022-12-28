@@ -1,14 +1,16 @@
-import { Button, FormControl, FormLabel, Input, Modal, ModalBody, ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalOverlay, Select, Text, useDisclosure } from '@chakra-ui/react'
+import { Button, FormControl, FormLabel, Input, Modal, ModalBody, ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalOverlay, Select, Text, useDisclosure, useToast } from '@chakra-ui/react'
 import React from 'react'
 import { useState } from 'react'
 import { useDispatch } from 'react-redux'
-import { Form, useLocation } from 'react-router-dom'
+import { Form, Navigate, useLocation, useNavigate } from 'react-router-dom'
 import { useprofilefunc } from '../../redux/AppReducer/action'
 import style from "./PaymentPage.module.css"
 export default function PaymentPage() {
   const { isOpen, onOpen, onClose } = useDisclosure()
+  let navigate=useNavigate()
   let location = useLocation()
   // let  loca=location.state.locality
+
   let [loc,setLocation]=useState()
   let [flat, setFlat] = useState()
   let [landMark, setLandMark] = useState()
@@ -18,16 +20,25 @@ export default function PaymentPage() {
   let [fullname, setFullName] = useState()
   let [adress,setAdrres]=useState()
   let dispatch=useDispatch()
-
+  const toast=useToast()
   let handleForm = (e) => {  
       e.preventDefault()
-   let arr=[loc,flat,landMark,city,email,mobile,fullname]
+        let arr=[loc,flat,landMark,city,email,mobile,fullname]
    setAdrres(arr)
-     
+      onOpen()
   }
  const hadleuserpfile=()=>{
+  
   useprofilefunc(dispatch,adress)
-
+  onClose()
+  toast({
+    title: 'User details added',
+      status: 'success',
+    duration: 9000,
+    isClosable: true,
+    position: "top"
+  })
+  navigate("/Payment")
   }
   return (
     <div className={style.form_container}>
@@ -60,7 +71,7 @@ export default function PaymentPage() {
             <FormLabel>Enter Full name</FormLabel>
             <Input type='text' value={fullname} onChange={(e) => setFullName(e.target.value)} />
 
-            <Button type='submit' className={style.btn} >Save & Proceed</Button >
+            <Button type='submit' className={style.btn}  >Save & Proceed </Button >
           </FormControl>
         </form>
       </div>
@@ -115,7 +126,7 @@ export default function PaymentPage() {
             <Button colorScheme='blue' mr={3} onClick={onClose}>
               Close
             </Button>
-            <Button  className={style.confbtn} onClick={()=>hadleuserpfile()}>Confirm address & Place order</Button>
+            <Button  className={style.confbtn} onClick={()=>hadleuserpfile()}>Confirm user details & proceed to pay</Button>
           </ModalFooter>
         </ModalContent>
       </Modal>

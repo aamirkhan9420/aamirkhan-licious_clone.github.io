@@ -75,7 +75,7 @@ export default function AddToCart({locality, subtotal, deliverycharge, discount,
       <Box className={style.cart_icon_box} onClick={handleCartSlider}>
         <AiOutlineShoppingCart className={style.cart_icon} />
         {total > 0 && <span className={style.badge}>{total}</span>}
-        <h2>Cart</h2>
+        <h2 >Cart</h2>
 
       </Box>
 
@@ -95,7 +95,7 @@ export default function AddToCart({locality, subtotal, deliverycharge, discount,
             <DrawerCloseButton className={style.closebtn} />
             <div className={style.heading_div}>
               <h1>Order Summary</h1>
-              <h2>Congratulation Your delivery charge is waived off!!!</h2>
+              <h2>{totalBill<399?"Your cart value is less than ₹399 & delivery charge applies":"Congratulation Your delivery charge is waived off!!!"}</h2>
             </div>
             <div className={style.cart_parent}>
 

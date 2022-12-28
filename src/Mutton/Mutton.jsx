@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
@@ -13,6 +13,49 @@ export default function Mutton({handleQuantityIncreament,handleQuantityDecreamen
     let cartData = useSelector((state) => {
         return state.AppReducer.cartData
     })
+    // *filter filter start filter start filter start  filter  filter*//
+     let [filterd,setFilterd]=useState(foodData||[])
+
+    let filterAll = () => {
+        console.log("hello1")
+
+        setFilterd(foodData)
+
+    }
+
+    let filterByCurryCut=()=>{
+        console.log("hello")
+        let arr=[]
+        let filterData =foodData.filter((el)=>{
+            if ((el.name.includes("Curry Cut"))){
+                arr.push(el)
+            }
+        })
+        setFilterd(arr)
+
+    }
+    let filterByBoneless=()=>{
+        console.log("hello2")
+        let arr=[]
+        let filterData =foodData.filter((el)=>{
+            if ((el.des.includes("boneless"))){
+                arr.push(el)
+            }
+        })
+       
+        setFilterd(arr)
+    }  
+    let filterByReadyCook = () => {
+        console.log("hello3")
+        let arr = []
+        let filterData = foodData.filter((el) => {
+            if ((el.name.includes("Ready"))) {
+                arr.push(el)
+            }
+        })
+        setFilterd(arr)
+    }
+    /*Filter end  filter end filter end filter end filter end fiter end*/
     console.log(cartData)
     let dispatch = useDispatch()
     const handleGetCart = () => {
@@ -38,15 +81,22 @@ export default function Mutton({handleQuantityIncreament,handleQuantityDecreamen
      useEffect(() => {
          handleGetCart()
          fishFunction()
-         
-     }, [dispatch, cartGet])
+         setFilterd(foodData)
+     }, [dispatch, cartGet,foodData.length])
     return (
         <div className={style.fish_container}>
-            <div className={style.fish_filter_nav}></div>
+            <div className={style.fish_filter_nav}>
+            <div className={style.fish_filter_nav_parent}>
+                <div onClick={()=>filterAll()}><img src="https://dao54xqhg9jfa.cloudfront.net/OMS-Category/c28b264a-ee5e-1661-2715-97c9bbfba1f3/original/Mu.png" alt="" /><h3>All</h3></div>
+                <div onClick={()=>filterByCurryCut()}><img src="https://dao54xqhg9jfa.cloudfront.net/OMS-Category/26089646-133c-648e-21ac-3f01ddb8b30b/original/Curry-Cut.png" alt="" /><h3>Curry Cuts</h3></div>
+                <div onClick={()=>filterByBoneless()}><img src="https://dao54xqhg9jfa.cloudfront.net/OMS-Category/cf919d27-7d51-337b-0324-2cfb79bbf09f/original/Boaneless_mince.png" alt="" /><h3>Boaneless & Mince</h3></div>
+                <div onClick={()=>filterByReadyCook()}><img src="https://dao54xqhg9jfa.cloudfront.net/OMS-Category/935c4a62-1dfb-8697-8231-7123663f4d28/original/Galowti_kebab.png" alt="" /><h3>Ready to Cook</h3></div>
+               </div>
+            </div>
 
             <div className={style.fish_main_parent}>
                 <div className={style.fish_parent_grid_div}>
-                    {foodData.length > 0 && foodData.map((el) => (
+                    {foodData.length > 0 && filterd.map((el) => (
                         <div key={el.index} className={style.single_div}>
                             <Link to={"/SinglePage"} state={el} className={style.link}>
 

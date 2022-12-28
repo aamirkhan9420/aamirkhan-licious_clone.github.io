@@ -3,6 +3,63 @@
     {
       "quantity": 1,
       "id": 1,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/08527331-4df1-4dca-f395-1a3f54d40bde/original/Rich-Goat-Curry-Cut-Small---Large-Pack---pr_awykgtbnwef---Hero-Shot.jpg",
+      "name": "Goat Curry Cut - Small Pieces (Large Pack)",
+      "des": "32-40 small pieces of bone-in and boneless goat meat.",
+      "net_tag": "Net wt:",
+      "net": 1000,
+      "gross_tag": "Gross:",
+      "gross": 1026,
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": 271,
+      "strikedPrice": "350",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 2,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2092e133-83e2-a0e7-ee98-9726c9779293/original/Premium-goat-curry-cut_(1).jpg",
+      "name": "Goat Shoulder Curry Cut",
+      "des": "Evenly cut, juicy, bone-in and boneless pieces of goat meat from the shoulders of goat.",
+      "net_tag": "Net wt:",
+      "net": 1000,
+      "gross_tag": "Gross:",
+      "gross": 1026,
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": 271,
+      "strikedPrice": "350",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 3,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/95d45fe6-ffe9-d867-2ce5-3a3a4b5478cc/original/Lamb-Coarse-Mince.jpg",
+      "name": "Lamb Mince - Coarse Boneless",
+      "des": "Coarse mince made from cleaned, boneless lamb meat",
+      "net_tag": "Net wt:",
+      "net": 1000,
+      "gross_tag": "Gross:",
+      "gross": 1026,
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": 271,
+      "strikedPrice": "350",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 4,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9e8eaa76-7195-009a-7094-05b50bf1d41e/original/Goat-Boneless-Hero-Shot.jpg?format=webp",
       "name": "Goat Boneless",
       "des": "Chunky, even pieces of fat-trimmed, boneless goat meat from the hind legs",
@@ -21,7 +78,7 @@
     },
     {
       "quantity": 1,
-      "id": 2,
+      "id": 5,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3d06e115-f6b9-dbc5-9df2-7aebfcf59ca4/original/Hyderabadi-Mutton-Shami-Kebab-_-Ready-in-8-Minutes_(1).jpg?format=webp",
       "name": "Hyderabadi Mutton Shami Kebab | Ready in 8 Minutes",
       "des": "Hyderabad's favourite kebab, so delicious it's fit for royalty.",
@@ -40,7 +97,7 @@
     },
     {
       "quantity": 1,
-      "id": 3,
+      "id": 6,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/658e130d-051b-d43a-dae1-a26ee63eb8b2/original/Mutton-Soup-Bones--Hero-Shot.jpg?format=webp",
       "name": "Mutton Soup Bones",
       "des": "Cleaned, blood-free, chunky pieces of lamb &amp; goat bone taken from the shoulders, ribs &amp; legs",
@@ -59,7 +116,7 @@
     },
     {
       "quantity": 1,
-      "id": 4,
+      "id": 7,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/887cb750-298c-349f-8a72-c16aa4e146f1/original/Mutton-Kidney---Halved-.jpg?format=webp",
       "name": "Mutton Kidney - Halved",
       "des": "Premium lamb kidneys, cleaned, trimmed and halved for the true-blue offal lovers.",
@@ -78,7 +135,7 @@
     },
     {
       "quantity": 1,
-      "id": 5,
+      "id": 8,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks alon...",
@@ -97,7 +154,7 @@
     },
     {
       "quantity": 1,
-      "id": 6,
+      "id": 9,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5pzo5x/2/prod_display_image/1634616925.3013--2021-10-1909:45:25--1818",
       "name": "Assorted Kebab Platter Ready to Cook",
       "des": "Tender & juicy- our platter of kebabs is perfect for parties!",
@@ -116,7 +173,7 @@
     },
     {
       "quantity": 1,
-      "id": 7,
+      "id": 10,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgv7puul/2/prod_display_image/1631081020.9151--2021-09-0811:33:40--1818",
       "name": "Goat Curry Cut (Small) - Large Pack",
       "des": "Bite-sized cuts of rich goat meat on the bone, from the ri...",
@@ -135,7 +192,7 @@
     },
     {
       "quantity": 1,
-      "id": 8,
+      "id": 11,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5inh87/2/prod_display_image/1617898572.3949--2021-04-0821:46:12--738",
       "name": "Assorted Tandoori Platter Ready to Cook",
       "des": "Pre-marinated tandoori treats, ready-in-8 mins!",
@@ -154,7 +211,7 @@
     },
     {
       "quantity": 1,
-      "id": 9,
+      "id": 12,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtbauyh/2/prod_display_image/1631078160.6782--2021-09-0810:46:00--1818",
       "name": "Chicken Mince - Large Pack",
       "des": "Boneless, minced chicken for a variety of dishes",
@@ -173,7 +230,7 @@
     },
     {
       "quantity": 1,
-      "id": 10,
+      "id": 13,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgb2jhb/2/prod_display_image/1634375058.5849--2021-10-1614:34:18--905?format=webp",
       "name": "Chunky Sriracha Prawn Spread",
       "des": "A blend of freshly cooked juicy prawn chunks in a spicy S...",
@@ -192,7 +249,7 @@
     },
     {
       "quantity": 1,
-      "id": 11,
+      "id": 14,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4a28f1b9-adfa-0842-57cd-5d1cd8a6df1e/original/Chicken-Bounty-Combo-1.jpg?format=webp",
       "gross": "",
       "name": "Chicken Bounty Combo",
@@ -211,7 +268,7 @@
     },
     {
       "quantity": 1,
-      "id": 12,
+      "id": 15,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f01812a0-d391-a4b2-5bf0-5454d67050fb/original/Smoked-Chicken-Treats-.jpg?format=webp",
       "name": "Smoked Chicken Treats Combo",
       "des": "Smokey Chicken Wings, Frankfurters & a Tandoori Chicken",
@@ -230,7 +287,7 @@
     },
     {
       "quantity": 1,
-      "id": 13,
+      "id": 16,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_meyku6qvzqq/2/prod_display_image/1633176342.0478--2021-10-0217:35:42--1818",
       "name": "Lamb Mince (Keema)",
       "des": "Boneless, minced lamb for a variety of dishes",
@@ -249,7 +306,7 @@
     },
     {
       "quantity": 1,
-      "id": 14,
+      "id": 17,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_58d3ae77dcce0/2/prod_display_image/1574106648.4162--2019-11-1901:20:48--260?format=webp",
       "name": "Mutton Soup Bones",
       "des": "Cleaned, blood-free, chunky pieces of lamb & goat bone...",
@@ -268,7 +325,7 @@
     },
     {
       "quantity": 1,
-      "id": 15,
+      "id": 18,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/d6d5ecdc-b56e-5766-6aee-f169c6ae556d/original/1589904389.8471--2020-05-1921_36_29--472.jpeg?format=webp",
       "name": "Goat Biryani Cut",
       "des": "Bone-in and boneless goat chunks crafted to create the r...",
@@ -289,7 +346,7 @@
   "Chicken_Data": [
     {
       "quantity": 1,
-      "id": 16,
+      "id": 19,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -308,7 +365,7 @@
     },
     {
       "quantity": 1,
-      "id": 17,
+      "id": 20,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -346,7 +403,7 @@
     },
     {
       "quantity": 1,
-      "id": 19,
+      "id": 21,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_59a6d117e3836/2/prod_display_image/1634570709.1146--2021-10-1820:55:09--1818?format=webp",
       "name": "Fish Tikka | Ready to Cook",
       "des": "Boneless basa fillets in an East Indian style marinade.",
@@ -365,7 +422,7 @@
     },
     {
       "quantity": 1,
-      "id": 20,
+      "id": 22,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8izjkuohf8n/2/prod_display_image/1634571848.1052--2021-10-1821:14:08--1818?format=webp",
       "name": "Creamy Afghani Chicken | Ready to Cook",
       "des": "Boneless basa fillets in an East Indian style marinade.",
@@ -384,7 +441,7 @@
     },
     {
       "quantity": 1,
-      "id": 21,
+      "id": 23,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_57235922d122e/2/prod_display_image/1625148175.7279--2021-07-0119:32:55--738?format=webp",
       "name": "Chicken Tikka | Ready To Cook",
       "des": "Tandoori-style chicken marinated in flavourful spices",
@@ -403,7 +460,7 @@
     },
     {
       "quantity": 1,
-      "id": 22,
+      "id": 24,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fmnkgkvc59i/2/prod_display_image/1634572726.3909--2021-10-1821:28:46--1818?format=webp",
       "name": "Tandoori Chicken | Ready in 8 Minutes",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -479,7 +536,7 @@
     },
     {
       "quantity": 1,
-      "id": 26,
+      "id": 25,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3im1dc7/2/prod_display_image/1623765190.9987--2021-06-1519:23:10--738?format=webp",
       "name": "Hyderabadi Mutton Shami Kebab | Ready in 8 Minutes",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -498,7 +555,7 @@
     },
     {
       "quantity": 1,
-      "id": 27,
+      "id": 26,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8jvklgaboqk/2/prod_display_image/1636910093.7451--2021-11-1422:44:53--1818",
       "name": "Chicken Malai Tikka Ready in 8 Minutes",
       "des": "Boneless pieces of chicken in a creamy marinade.",
@@ -536,7 +593,7 @@
     },
     {
       "quantity": 1,
-      "id": 29,
+      "id": 27,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3im2bid/2/prod_display_image/1634311360.8888--2021-10-1520:52:40--905?format=webp",
       "name": "Lucknowi Mutton Galouti Kebab | Ready in 8 Minutes",
       "des": "Tandoori-style chicken marinated in flavourful spices",
@@ -555,7 +612,7 @@
     },
     {
       "quantity": 1,
-      "id": 30,
+      "id": 28,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_j4tkuwns3a2/2/prod_display_image/1635533034.6751--2021-10-3000:13:54--1818",
       "name": "Honey Chilli Garlic Chicken Wings | Ready to Cook",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -574,7 +631,7 @@
     },
     {
       "quantity": 1,
-      "id": 31,
+      "id": 29,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -593,7 +650,7 @@
     },
     {
       "quantity": 1,
-      "id": 32,
+      "id": 30,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/edb7d551-80c1-888a-238b-282e8c19ebfd/original/1604229879.7734--2020-11-0116_54_39--738.jpeg?format=webp",
       "name": "Freshwater Prawns 60Count/Kg (Jhinga/Seegadi) - Cleaned & Deveined, No Tail - Large pack",
       "des": "Freshwater Vannamei prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
@@ -612,7 +669,7 @@
     },
     {
       "quantity": 1,
-      "id": 33,
+      "id": 31,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -631,7 +688,7 @@
     },
     {
       "quantity": 1,
-      "id": 34,
+      "id": 32,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -643,14 +700,14 @@
       "price_tag": "MRP:",
       "cuurency": "₹",
       "price": "248",
-      "strikedPrice": 350,
+      "strikedPrice": "350",
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 35,
+      "id": 33,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2442c92c-09b9-449d-bcce-defbf856fede/original/Chunky-Continental-Chicken-Spread.jpg?format=webp",
       "name": "Chunky Continental Chicken Spread",
       "des": "A meaty delight mix of freshly roasted chicken chunks, crushe..",
@@ -662,7 +719,7 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": "149",
-      "strikePrice": "",
+      "strikePrice": "200",
       "off": "",
       "off_tag": "%OFF",
       "status": false
@@ -688,7 +745,7 @@
     },
     {
       "quantity": 1,
-      "id": 37,
+      "id": 34,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -707,7 +764,7 @@
     },
     {
       "quantity": 1,
-      "id": 38,
+      "id": 35,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fmhkgtbdprx/2/prod_display_image/1631077100.036--2021-09-0810:28:20--1818",
       "name": "Chicken Breast Boneless - Large Pack",
       "des": "Tender, boneless fillets of chicken meat cut from the bre...",
@@ -726,7 +783,7 @@
     },
     {
       "quantity": 1,
-      "id": 39,
+      "id": 36,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks along w..",
@@ -738,14 +795,14 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": "100",
-      "strikePrice": "",
+      "strikePrice": "150",
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 40,
+      "id": 37,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/958f431a-9b65-3430-2c3e-90f5e3aed0d2/original/1599923920.2257--2020-09-1220_48_40--738.jpeg?format=webp",
       "name": "Premium Mackerel (Bangda) Small - Whole, Cleaned",
       "des": "Small-sized, gutted and cleaned Mackerel with head and tail intact, defined by its taut flesh.",
@@ -764,7 +821,7 @@
     },
     {
       "quantity": 1,
-      "id": 41,
+      "id": 38,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -778,7 +835,7 @@
       "price_tag": "MRP:",
       "cuurency": "₹",
       "price": 271,
-      "strikedPrice": 50,
+      "strikedPrice": 300,
       "off": "",
       "off_tag": "%OFF",
       "status": false,
@@ -787,7 +844,7 @@
     },
     {
       "quantity": 1,
-      "id": 42,
+      "id": 39,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -800,14 +857,14 @@
       "price_tag": "MRP:",
       "cuurency": "₹",
       "price": 248,
-      "strikedPrice": 50,
+      "strikedPrice": 300,
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 43,
+      "id": 40,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -832,7 +889,7 @@
   "Dishes_of_chicken": [
     {
       "quantity": 1,
-      "id": 44,
+      "id": 41,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9d671a73-13fb-f476-68e9-4582e1d3d91a/original/Indian_marinades-03.jpg?format=webp",
       "name": "Fish Tawa Fry | Ready to Cook",
       "des": "3-5 freshly marinated, Ready-to-Fry cuts of Rohu.",
@@ -851,7 +908,7 @@
     },
     {
       "quantity": 1,
-      "id": 45,
+      "id": 42,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/27be20c0-daa2-9a14-8b48-44450c1049c4/original/PUJO_TILE_IMAGES_AND_COOKING_METHOD_AND_RTB-10.jpg?format=webp",
       "name": "Kosha Mangsho | Ready to Cook",
       "des": "Classic Bengali mutton curry, ready in 8 minutes!",
@@ -870,7 +927,7 @@
     },
     {
       "quantity": 1,
-      "id": 46,
+      "id": 43,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/335d0117-0716-fee7-3370-12c5fca928de/original/1583852613.2809--2020-03-1020_33_33--472.jpeg?format=webp",
       "name": "Classic Eggs - Pack Of 30",
       "des": "Pack of 30 naturally laid, white eggs from healthy hens",
@@ -889,7 +946,7 @@
     },
     {
       "quantity": 1,
-      "id": 47,
+      "id": 44,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ccf4dc1a-1ef3-62e1-18e3-7aa719861427/original/two.jpg?format=webp",
       "name": "Fish Tikka (Mini) | Ready to Cook",
       "des": "Boneless basa fillets in a spicy marinade.",
@@ -908,7 +965,7 @@
     },
     {
       "quantity": 1,
-      "id": 48,
+      "id": 45,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks alon...",
@@ -927,7 +984,7 @@
     },
     {
       "quantity": 1,
-      "id": 49,
+      "id": 46,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5pzo5x/2/prod_display_image/1634616925.3013--2021-10-1909:45:25--1818",
       "name": "Assorted Kebab Platter Ready to Cook",
       "des": "Tender & juicy- our platter of kebabs is perfect for parties!",
@@ -946,7 +1003,7 @@
     },
     {
       "quantity": 1,
-      "id": 50,
+      "id": 47,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/aa39c3ee-8eca-1299-edaa-14b4067a94f8/original/rtc_july_6images-15.jpg?format=webp",
       "name": "Chicken Cutlet | Ready to Cook",
       "des": "Mildly spicy chicken cutlets made with minced chicken.",
@@ -965,7 +1022,7 @@
     },
     {
       "quantity": 1,
-      "id": 51,
+      "id": 48,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5inh87/2/prod_display_image/1617898572.3949--2021-04-0821:46:12--738",
       "name": "Assorted Tandoori Platter Ready to Cook",
       "des": "Pre-marinated tandoori treats, ready-in-8 mins!",
@@ -984,7 +1041,7 @@
     },
     {
       "quantity": 1,
-      "id": 52,
+      "id": 49,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4b684f04-8b02-68b8-5e43-eea7f2560af4/original/500gms_(2).jpg?format=webp",
       "name": "Awadhi Chicken Biryani | Meat &amp; Masala Mix",
       "des": "Fragrant, delicately flavourful &amp; meaty",
@@ -1003,7 +1060,7 @@
     },
     {
       "quantity": 1,
-      "id": 53,
+      "id": 50,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgb2jhb/2/prod_display_image/1634375058.5849--2021-10-1614:34:18--905?format=webp",
       "name": "Chunky Sriracha Prawn Spread",
       "des": "A blend of freshly cooked juicy prawn chunks in a spicy S...",
@@ -1022,7 +1079,7 @@
     },
     {
       "quantity": 1,
-      "id": 54,
+      "id": 51,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4a28f1b9-adfa-0842-57cd-5d1cd8a6df1e/original/Chicken-Bounty-Combo-1.jpg?format=webp",
       "name": "Chicken Bounty Combo",
       "des": "3 medium spicy pre-marinated chicken dishes you will l...",
@@ -1041,7 +1098,7 @@
     },
     {
       "quantity": 1,
-      "id": 55,
+      "id": 52,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f01812a0-d391-a4b2-5bf0-5454d67050fb/original/Smoked-Chicken-Treats-.jpg?format=webp",
       "name": "Smoked Chicken Treats Combo",
       "des": "Smokey Chicken Wings, Frankfurters & a Tandoori Chicken",
@@ -1062,7 +1119,7 @@
   "sauce": [
     {
       "quantity": 1,
-      "id": 56,
+      "id": 53,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4cyjya5ry5e/2/prod_display_image/1634636433.8759--2021-10-1915:10:33--1818?format=webp",
       "name": "Chunky Butter Chicken Spread",
       "des": "Mildly spiced chunks of freshly roasted chicken blended with ...",
@@ -1081,7 +1138,7 @@
     },
     {
       "quantity": 1,
-      "id": 57,
+      "id": 54,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks along w..",
@@ -1100,7 +1157,7 @@
     },
     {
       "quantity": 1,
-      "id": 58,
+      "id": 55,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2442c92c-09b9-449d-bcce-defbf856fede/original/Chunky-Continental-Chicken-Spread.jpg?format=webp",
       "name": "Chunky Continental Chicken Spread",
       "des": "A meaty delight mix of freshly roasted chicken chunks, crushe..",
@@ -1119,7 +1176,7 @@
     },
     {
       "quantity": 1,
-      "id": 59,
+      "id": 56,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4cyjya5vxs7/2/prod_display_image/1634635913.0319--2021-10-1915:01:53--1818?format=webp",
       "name": "Chunky Butter Chicken Spread (Single Serve)",
       "des": "Mildly spiced chunks of freshly roasted chicken blended...",
@@ -1138,7 +1195,7 @@
     },
     {
       "quantity": 1,
-      "id": 60,
+      "id": 57,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4q4jya5uwj4/2/prod_display_image/1634646348.4348--2021-10-1917:55:48--1818?format=webp",
       "name": "Chunky Continental Chicken Spread (Single Serve)",
       "des": "A meaty delight mix of freshly roasted chicken chunks, cr...",
@@ -1157,7 +1214,7 @@
     },
     {
       "quantity": 1,
-      "id": 61,
+      "id": 58,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/5c68f91a-f19a-f788-94bf-d22c0b0d5b36/original/1578237087.8205--2020-01-0520_41_27--458.jpeg?format=webp",
       "name": "Chunky Shawarma Chicken Spread - 400gms",
       "des": "For salads & snacks, this is the combo you need.",
@@ -1176,7 +1233,7 @@
     },
     {
       "quantity": 1,
-      "id": 62,
+      "id": 59,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1puko17mted/2/prod_display_image/1636896170.3758--2021-11-1418:52:50--905",
       "name": "Chunky Continental Chicken Spread - 400gms",
       "des": "For salads & snacks, this is the combo you need.",
@@ -1195,7 +1252,7 @@
     },
     {
       "quantity": 1,
-      "id": 63,
+      "id": 60,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ea5a5322-c1c4-bfcc-70e3-5e528413225a/original/Chunky-Herby-Tomato-Chicken-Spread_(1).jpg?format=webp",
       "name": "Chunky Butter Chicken Spread - 400gms",
       "des": "For salads & snacks, this is the combo you need.",
@@ -1214,7 +1271,7 @@
     },
     {
       "quantity": 1,
-      "id": 64,
+      "id": 61,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/7921dd47-61b3-d7c1-6973-ce42778f29fc/original/1599039980.2972--2020-09-0215_16_20--472.jpeg?format=webp",
       "name": "Chunky Herby Tomato Chicken Spread (Single Serve)",
       "des": "A pleasant contrast of Meaty chicken chunks flavored wit...",
@@ -1233,7 +1290,7 @@
     },
     {
       "quantity": 1,
-      "id": 65,
+      "id": 62,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/6231ecd0-8864-da18-0297-6c8c2415f808/original/1599039295.0495--2020-09-0215_04_55--472.jpeg?format=webp",
       "name": "Chunky Continental Egg Spread",
       "des": "Creamy egg spread flavoured with garlic.",
@@ -1252,7 +1309,7 @@
     },
     {
       "quantity": 1,
-      "id": 66,
+      "id": 63,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_faakel5u59c/2/prod_display_image/1599037852.3211--2020-09-0214:40:52--472?format=webp",
       "name": "Chunky Creamy Tomato Egg Spread (Single Serve)",
       "des": "Tangy, creamy spread with chunks of egg in every bite.",
@@ -1271,7 +1328,7 @@
     },
     {
       "quantity": 1,
-      "id": 67,
+      "id": 64,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1puko17o11a/2/prod_display_image/1620061207.2395--2021-05-0322:30:07--738",
       "name": "Chunky Herby Tomato Chicken Spread",
       "des": "A pleasant contrast of Meaty chicken chunks flavored wit...",
@@ -1287,9 +1344,66 @@
       "off": "",
       "off_tag": "%OFF",
       "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 65,
+      "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15cko17ou95/1/prod_display_image/1620095891.0803--2021-05-0408:08:11--738",
+      "name": "Your favourite condiments in a yummy, chunky Egg spread!",
+      "des": "Your favourite condiments in a yummy, chunky Egg spread!",
+      "net_tag": "Net wt:",
+      "net": "200",
+      "gross_tag": "Gross:",
+      "gross": "200",
+      "unit": "gms",
+      " price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": "199",
+      "strikePrice": "",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
     }
   ],
   "fish": [
+    {
+      "quantity": 1,
+      "id": 66,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1ccf648a-3341-8ac4-d56d-d36ddfceb433/original/Goan-Prawn-Curry-Tag.jpg",
+      "name": "Sea white prawns in a flavourful coconut based gravy Ready to Cook.",
+      "des": "Sea white prawns in a flavourful coconut based gravy..",
+      "net_tag": "Net wt:",
+      "net": "250",
+      "gross_tag": "Gross:",
+      "gross": "500",
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": "349",
+      "strikePrice": "",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 67,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/561a7646-309d-b623-0c1d-908fecfa29da/original/rtc_july_6images-23.jpg",
+      "name": "Fish Fingers | Ready to Cook",
+      "des": "Panko-crumbed basa pieces made by our team of Nakhrebaaz.",
+      "net_tag": "Net wt:",
+      "net": "250",
+      "gross_tag": "Gross:",
+      "gross": "500",
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": "349",
+      "strikePrice": "",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
+    },
     {
       "quantity": 1,
       "id": 68,
@@ -1688,12 +1802,31 @@
       "off": "15",
       "off_tag": "%OFF",
       "status": false
+    },
+    {
+      "quantity": 1,
+      "id": 89,
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/54a88df7-f669-140f-230c-92f1f1db07ff/original/Crispy-Prawns-_-Tagjpg.jpg",
+      "name": "Crispy Prawns | Ready to Cook.",
+      "des": "Crumb-coated prawns, ready to be deep fried",
+      "net_tag": "Net wt:",
+      "net": "250",
+      "gross_tag": "Gross:",
+      "gross": "500",
+      "unit": "gms",
+      "price_tag": "MRP:",
+      "cuurency": "₹",
+      "price": "349",
+      "strikePrice": "",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false
     }
   ],
   "bestSeller": [
     {
       "quantity": 1,
-      "id": 89,
+      "id": 90,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -1716,7 +1849,7 @@
     },
     {
       "quantity": 1,
-      "id": 90,
+      "id": 91,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -1736,7 +1869,7 @@
     },
     {
       "quantity": 1,
-      "id": 91,
+      "id": 92,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -1759,7 +1892,7 @@
     },
     {
       "quantity": 1,
-      "id": 92,
+      "id": 93,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -1782,7 +1915,7 @@
     },
     {
       "quantity": 1,
-      "id": 93,
+      "id": 94,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks along w..",
@@ -1794,14 +1927,14 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": 100,
-      "strikePrice": "",
+      "strikePrice": "150",
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 94,
+      "id": 95,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2442c92c-09b9-449d-bcce-defbf856fede/original/Chunky-Continental-Chicken-Spread.jpg?format=webp",
       "name": "Chunky Continental Chicken Spread",
       "des": "A meaty delight mix of freshly roasted chicken chunks, crushe..",
@@ -1813,14 +1946,14 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": 149,
-      "strikePrice": "",
+      "strikePrice": "200",
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 95,
+      "id": 96,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4cyjya5vxs7/2/prod_display_image/1634635913.0319--2021-10-1915:01:53--1818?format=webp",
       "name": "Chunky Butter Chicken Spread (Single Serve)",
       "des": "Mildly spiced chunks of freshly roasted chicken blended...",
@@ -1832,14 +1965,14 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": 29,
-      "strikePrice": "",
+      "strikePrice": "30",
       "off": "",
       "off_tag": "%OFF",
       "status": false
     },
     {
       "quantity": 1,
-      "id": 96,
+      "id": 97,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4q4jya5uwj4/2/prod_display_image/1634646348.4348--2021-10-1917:55:48--1818?format=webp",
       "name": "Chunky Continental Chicken Spread (Single Serve)",
       "des": "A meaty delight mix of freshly roasted chicken chunks, cr...",
@@ -1851,7 +1984,7 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": 31,
-      "strikePrice": "",
+      "strikePrice": 45,
       "off": "",
       "off_tag": "%OFF",
       "status": false
@@ -1860,7 +1993,7 @@
   "tempo": [
     {
       "quantity": 1,
-      "id": 97,
+      "id": 98,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "imgUrl1": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_image/1631077714.4492--2021-09-0810:38:34--1818",
       "imgUrl2": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_image/1632404503.7095--2021-09-2319:11:43--1818",
@@ -2036,7 +2169,7 @@
   "random": [
     {
       "quantity": 1,
-      "id": 103,
+      "id": 99,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -2055,7 +2188,7 @@
     },
     {
       "quantity": 1,
-      "id": 104,
+      "id": 100,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/edb7d551-80c1-888a-238b-282e8c19ebfd/original/1604229879.7734--2020-11-0116_54_39--738.jpeg?format=webp",
       "name": "Freshwater Prawns 60Count/Kg (Jhinga/Seegadi) - Cleaned & Deveined, No Tail - Large pack",
       "des": "Freshwater Vannamei prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
@@ -2074,7 +2207,7 @@
     },
     {
       "quantity": 1,
-      "id": 105,
+      "id": 101,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -2093,7 +2226,7 @@
     },
     {
       "quantity": 1,
-      "id": 106,
+      "id": 102,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -2112,7 +2245,7 @@
     },
     {
       "quantity": 1,
-      "id": 107,
+      "id": 103,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2442c92c-09b9-449d-bcce-defbf856fede/original/Chunky-Continental-Chicken-Spread.jpg?format=webp",
       "name": "Chunky Continental Chicken Spread",
       "des": "A meaty delight mix of freshly roasted chicken chunks, crushe..",
@@ -2131,7 +2264,7 @@
     },
     {
       "quantity": 1,
-      "id": 108,
+      "id": 104,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -2150,7 +2283,7 @@
     },
     {
       "quantity": 1,
-      "id": 109,
+      "id": 105,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -2169,7 +2302,7 @@
     },
     {
       "quantity": 1,
-      "id": 110,
+      "id": 106,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fmhkgtbdprx/2/prod_display_image/1631077100.036--2021-09-0810:28:20--1818",
       "name": "Chicken Breast Boneless - Large Pack",
       "des": "Tender, boneless fillets of chicken meat cut from the bre...",
@@ -2188,7 +2321,7 @@
     },
     {
       "quantity": 1,
-      "id": 111,
+      "id": 107,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks along w..",
@@ -2207,7 +2340,7 @@
     },
     {
       "quantity": 1,
-      "id": 112,
+      "id": 108,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/958f431a-9b65-3430-2c3e-90f5e3aed0d2/original/1599923920.2257--2020-09-1220_48_40--738.jpeg?format=webp",
       "name": "Premium Mackerel (Bangda) Small - Whole, Cleaned",
       "des": "Small-sized, gutted and cleaned Mackerel with head and tail intact, defined by its taut flesh.",
@@ -2226,7 +2359,7 @@
     },
     {
       "quantity": 1,
-      "id": 113,
+      "id": 109,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -2249,7 +2382,7 @@
     },
     {
       "quantity": 1,
-      "id": 114,
+      "id": 110,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -2269,7 +2402,7 @@
     },
     {
       "quantity": 1,
-      "id": 115,
+      "id": 111,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -2292,6 +2425,86 @@
     }
   ],
   "prawn": [
+    {
+      "quantity": 1,
+      "id": 112,
+      "cuurency": "₹",
+      "des": "Freshwater prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
+      "gross": "200",
+      "gross_tag": "",
+      "Gross": "",
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/66e96bfe-5abc-2cd8-18a7-01a9eceb2bfa/original/WhatsApp_Image_2022-04-13_at_2.16.31_PM.jpeg",
+      "name": "Freshwater/ White Prawns/ Seegadi (Medium) - Cleaned & Deveined",
+      "net": "200",
+      "net_tag": "Net wt",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false,
+      "price": "340",
+      "price_tag": "MRP:",
+      "strikedPrice": 350,
+      "unit": "gms"
+    },
+    {
+      "quantity": 1,
+      "id": 113,
+      "cuurency": "₹",
+      "des": "Fresh nakhre for fresh & juicy freshwater prawns.",
+      "gross": "200",
+      "gross_tag": "",
+      "Gross": "",
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7f4bdc51-123a-4854-075c-0762953faa4c/original/unnamed.jpg",
+      "name": "Freshwater/ White Prawns/ Seegadi (Medium) - Cleaned & Deveined (Trial Pack, 10 Pcs)",
+      "net": "200",
+      "net_tag": "Net wt",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false,
+      "price": "230",
+      "price_tag": "MRP:",
+      "strikedPrice": 350,
+      "unit": "gms"
+    },
+    {
+      "quantity": 1,
+      "id": 114,
+      "cuurency": "₹",
+      "des": "Juicy, sweet-tasting meat, perfect for salads and pickles.",
+      "gross": "200",
+      "gross_tag": "",
+      "Gross": "",
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f574152f-741a-b2ce-7ed1-884a0bdf977b/original/pink-shrimp-.jpg",
+      "name": "Pink Shrimp/ Seegadi (Small) - Cleaned & Deveined",
+      "net": "200",
+      "net_tag": "Net wt",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false,
+      "price": "280",
+      "price_tag": "MRP:",
+      "strikedPrice": 350,
+      "unit": "gms"
+    },
+    {
+      "quantity": 1,
+      "id": 115,
+      "cuurency": "₹",
+      "des": "Peeled, deveined and ready to be devoured - Whiteleg Shrimp is a must try.",
+      "gross": "200",
+      "gross_tag": "",
+      "Gross": "",
+      "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_gi9kauyla8l/1/prod_display_image/1623211757.2848--2021-06-0909:39:17--738",
+      "name": "Freshwater/ White Prawns/ Seegadi (Small) - Cleaned & Deveined",
+      "net": "200",
+      "net_tag": "Net wt",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false,
+      "price": "280",
+      "price_tag": "MRP:",
+      "strikedPrice": 350,
+      "unit": "gms"
+    },
     {
       "quantity": 1,
       "id": 116,
@@ -2426,12 +2639,32 @@
       "price_tag": "MRP:",
       "strikePrice": "",
       "unit": "gms"
+    },
+    {
+      "quantity": 1,
+      "id": 123,
+      "cuurency": "₹",
+      "des": "Try these delicious Freshwater Prawns (Whole). The small bites of Whiteleg Shrimp is a must try.",
+      "gross": "200",
+      "gross_tag": "",
+      "Gross": "",
+      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/4f003ba8-d470-247b-435d-422a1a57f984/original/1591960259.2414--2020-06-1216_40_59--738.jpeg",
+      "name": "Freshwater/ White Prawns/ Seegadi (Small) - Whole",
+      "net": "200",
+      "net_tag": "Net wt",
+      "off": "",
+      "off_tag": "%OFF",
+      "status": false,
+      "price": "300",
+      "price_tag": "MRP:",
+      "strikedPrice": 350,
+      "unit": "gms"
     }
   ],
   "search": [
     {
       "quantity": 1,
-      "id": 123,
+      "id": 124,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -2450,7 +2683,7 @@
     },
     {
       "quantity": 1,
-      "id": 124,
+      "id": 125,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -2469,7 +2702,7 @@
     },
     {
       "quantity": 1,
-      "id": 125,
+      "id": 126,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/335d0117-0716-fee7-3370-12c5fca928de/original/1583852613.2809--2020-03-1020_33_33--472.jpeg?format=webp",
       "name": "Classic Eggs - Pack Of 30",
       "des": "Pack of 30 naturally laid, white eggs from healthy hens",
@@ -2488,7 +2721,7 @@
     },
     {
       "quantity": 1,
-      "id": 126,
+      "id": 127,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fmhkgtbdprx/2/prod_display_image/1631077100.036--2021-09-0810:28:20--1818",
       "name": "Chicken Breast Boneless - Large Pack",
       "des": "Tender, boneless fillets of chicken meat cut from the bre...",
@@ -2507,7 +2740,7 @@
     },
     {
       "quantity": 1,
-      "id": 127,
+      "id": 128,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/406279ca-cf70-479b-a9c2-170e10c23eec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
       "name": "Chunky Shawarma Chicken Spread",
       "des": "A creamy base with freshly roasted chicken chunks alon...",
@@ -2526,7 +2759,7 @@
     },
     {
       "quantity": 1,
-      "id": 128,
+      "id": 129,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5pzo5x/2/prod_display_image/1634616925.3013--2021-10-1909:45:25--1818",
       "name": "Assorted Kebab Platter Ready to Cook",
       "des": "Tender & juicy- our platter of kebabs is perfect for parties!",
@@ -2545,7 +2778,7 @@
     },
     {
       "quantity": 1,
-      "id": 129,
+      "id": 130,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgv7puul/2/prod_display_image/1631081020.9151--2021-09-0811:33:40--1818",
       "name": "Goat Curry Cut (Small) - Large Pack",
       "des": "Bite-sized cuts of rich goat meat on the bone, from the ri...",
@@ -2564,7 +2797,7 @@
     },
     {
       "quantity": 1,
-      "id": 130,
+      "id": 131,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5inh87/2/prod_display_image/1617898572.3949--2021-04-0821:46:12--738",
       "name": "Assorted Tandoori Platter Ready to Cook",
       "des": "Pre-marinated tandoori treats, ready-in-8 mins!",
@@ -2583,7 +2816,7 @@
     },
     {
       "quantity": 1,
-      "id": 131,
+      "id": 132,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtbauyh/2/prod_display_image/1631078160.6782--2021-09-0810:46:00--1818",
       "name": "Chicken Mince - Large Pack",
       "des": "Boneless, minced chicken for a variety of dishes",
@@ -2602,7 +2835,7 @@
     },
     {
       "quantity": 1,
-      "id": 132,
+      "id": 133,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgb2jhb/2/prod_display_image/1634375058.5849--2021-10-1614:34:18--905?format=webp",
       "name": "Chunky Sriracha Prawn Spread",
       "des": "A blend of freshly cooked juicy prawn chunks in a spicy S...",
@@ -2621,7 +2854,7 @@
     },
     {
       "quantity": 1,
-      "id": 133,
+      "id": 134,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4a28f1b9-adfa-0842-57cd-5d1cd8a6df1e/original/Chicken-Bounty-Combo-1.jpg?format=webp",
       "gross": "",
       "name": "Chicken Bounty Combo",
@@ -2640,7 +2873,7 @@
     },
     {
       "quantity": 1,
-      "id": 134,
+      "id": 135,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f01812a0-d391-a4b2-5bf0-5454d67050fb/original/Smoked-Chicken-Treats-.jpg?format=webp",
       "name": "Smoked Chicken Treats Combo",
       "des": "Smokey Chicken Wings, Frankfurters & a Tandoori Chicken",
@@ -2659,7 +2892,7 @@
     },
     {
       "quantity": 1,
-      "id": 135,
+      "id": 136,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_meyku6qvzqq/2/prod_display_image/1633176342.0478--2021-10-0217:35:42--1818",
       "name": "Lamb Mince (Keema)",
       "des": "Boneless, minced lamb for a variety of dishes",
@@ -2678,7 +2911,7 @@
     },
     {
       "quantity": 1,
-      "id": 136,
+      "id": 137,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_58d3ae77dcce0/2/prod_display_image/1574106648.4162--2019-11-1901:20:48--260?format=webp",
       "name": "Mutton Soup Bones",
       "des": "Cleaned, blood-free, chunky pieces of lamb & goat bone...",
@@ -2697,7 +2930,7 @@
     },
     {
       "quantity": 1,
-      "id": 137,
+      "id": 138,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/d6d5ecdc-b56e-5766-6aee-f169c6ae556d/original/1589904389.8471--2020-05-1921_36_29--472.jpeg?format=webp",
       "name": "Goat Biryani Cut",
       "des": "Bone-in and boneless goat chunks crafted to create the r...",
@@ -2716,7 +2949,7 @@
     },
     {
       "quantity": 1,
-      "id": 138,
+      "id": 139,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -2735,7 +2968,7 @@
     },
     {
       "quantity": 1,
-      "id": 139,
+      "id": 140,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -2754,7 +2987,7 @@
     },
     {
       "quantity": 1,
-      "id": 140,
+      "id": 141,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/af91ad48-799a-e3a3-feb0-720b7afcbdae/original/1596485519.2898--2020-08-0401_41_59--472.jpeg",
       "name": "Oriental Basil Chicken | Ready to Cook",
       "des": "Chicken cubes marinated in oriental flavours of garlic an...",
@@ -2773,7 +3006,7 @@
     },
     {
       "quantity": 1,
-      "id": 141,
+      "id": 142,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_59a6d117e3836/2/prod_display_image/1634570709.1146--2021-10-1820:55:09--1818?format=webp",
       "name": "Fish Tikka | Ready to Cook",
       "des": "Boneless basa fillets in an East Indian style marinade.",
@@ -2792,7 +3025,7 @@
     },
     {
       "quantity": 1,
-      "id": 142,
+      "id": 143,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8izjkuohf8n/2/prod_display_image/1634571848.1052--2021-10-1821:14:08--1818?format=webp",
       "name": "Creamy Afghani Chicken | Ready to Cook",
       "des": "Boneless basa fillets in an East Indian style marinade.",
@@ -2811,7 +3044,7 @@
     },
     {
       "quantity": 1,
-      "id": 143,
+      "id": 144,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_57235922d122e/2/prod_display_image/1625148175.7279--2021-07-0119:32:55--738?format=webp",
       "name": "Chicken Tikka | Ready To Cook",
       "des": "Tandoori-style chicken marinated in flavourful spices",
@@ -2830,7 +3063,7 @@
     },
     {
       "quantity": 1,
-      "id": 144,
+      "id": 145,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fmnkgkvc59i/2/prod_display_image/1634572726.3909--2021-10-1821:28:46--1818?format=webp",
       "name": "Tandoori Chicken | Ready in 8 Minutes",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -2849,7 +3082,7 @@
     },
     {
       "quantity": 1,
-      "id": 145,
+      "id": 146,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8smkrx2ly4g/2/prod_display_image/1632460294.1507--2021-09-2410:41:34--1818",
       "name": "Creamy Afghani Chicken (Mini) | Ready to Cook",
       "des": "Boneless basa fillets in an East Indian style marinade.",
@@ -2868,7 +3101,7 @@
     },
     {
       "quantity": 1,
-      "id": 146,
+      "id": 147,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ntcjmw1avau/2/prod_display_image/1636888533.2881--2021-11-1416:45:33--905?format=webp",
       "name": "Crispy Fish Fingers | Ready to Cook",
       "des": "Boneless pieces of basa, coated in panko crumbs.",
@@ -2887,7 +3120,7 @@
     },
     {
       "quantity": 1,
-      "id": 147,
+      "id": 148,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15tkn7c9h5u/2/prod_display_image/1636895731.0732--2021-11-1418:45:31--905",
       "name": "Smoked Chicken Wings | Ready To Cook",
       "des": "Tandoori-style chicken marinated in flavourful spices",
@@ -2906,7 +3139,7 @@
     },
     {
       "quantity": 1,
-      "id": 148,
+      "id": 149,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3im1dc7/2/prod_display_image/1623765190.9987--2021-06-1519:23:10--738?format=webp",
       "name": "Hyderabadi Mutton Shami Kebab | Ready in 8 Minutes",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -2925,7 +3158,7 @@
     },
     {
       "quantity": 1,
-      "id": 149,
+      "id": 150,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8jvklgaboqk/2/prod_display_image/1636910093.7451--2021-11-1422:44:53--1818",
       "name": "Chicken Malai Tikka Ready in 8 Minutes",
       "des": "Boneless pieces of chicken in a creamy marinade.",
@@ -2944,7 +3177,7 @@
     },
     {
       "quantity": 1,
-      "id": 150,
+      "id": 151,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_89lkrx2ojt1/2/prod_display_image/1634618647.0414--2021-10-1910:14:07--1818",
       "name": "Sichuan Chilli Chicken (Mini) | Ready to Cook",
       "des": "Boneless pieces of basa, coated in panko crumbs.",
@@ -2963,7 +3196,7 @@
     },
     {
       "quantity": 1,
-      "id": 151,
+      "id": 152,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3im2bid/2/prod_display_image/1634311360.8888--2021-10-1520:52:40--905?format=webp",
       "name": "Lucknowi Mutton Galouti Kebab | Ready in 8 Minutes",
       "des": "Tandoori-style chicken marinated in flavourful spices",
@@ -2982,7 +3215,7 @@
     },
     {
       "quantity": 1,
-      "id": 152,
+      "id": 153,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_j4tkuwns3a2/2/prod_display_image/1635533034.6751--2021-10-3000:13:54--1818",
       "name": "Honey Chilli Garlic Chicken Wings | Ready to Cook",
       "des": "Twice marinated boneless chicken chunks, first with fres...",
@@ -3001,7 +3234,7 @@
     },
     {
       "quantity": 1,
-      "id": 153,
+      "id": 154,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_av4kgtb3l1h/2/prod_display_image/1631077710.8126--2021-09-0810:38:30--1818",
       "name": "Chicken Curry Cut (Small Pcs) - Large Pack",
       "des": "Bone-in chunky pieces of skinless meat including Two le...",
@@ -3020,7 +3253,7 @@
     },
     {
       "quantity": 1,
-      "id": 154,
+      "id": 155,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/edb7d551-80c1-888a-238b-282e8c19ebfd/original/1604229879.7734--2020-11-0116_54_39--738.jpeg?format=webp",
       "name": "Freshwater Prawns 60Count/Kg (Jhinga/Seegadi) - Cleaned & Deveined, No Tail - Large pack",
       "des": "Freshwater Vannamei prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
@@ -3039,7 +3272,7 @@
     },
     {
       "quantity": 1,
-      "id": 155,
+      "id": 156,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -3058,7 +3291,7 @@
     },
     {
       "quantity": 1,
-      "id": 156,
+      "id": 157,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgtb7ywh/2/prod_display_image/1631077382.6688--2021-09-0810:33:02--1818",
       "name": "Chicken Curry Cut (Large Pcs) - Large Pack",
       "des": "Half a chicken cut to chunky pieces including Two leg, a...",
@@ -3077,7 +3310,7 @@
     },
     {
       "quantity": 1,
-      "id": 157,
+      "id": 158,
       "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2442c92c-09b9-449d-bcce-defbf856fede/original/Chunky-Continental-Chicken-Spread.jpg?format=webp",
       "name": "Chunky Continental Chicken Spread",
       "des": "A meaty delight mix of freshly roasted chicken chunks, crushe..",
@@ -3096,7 +3329,7 @@
     },
     {
       "quantity": 1,
-      "id": 158,
+      "id": 159,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_fhijtgw0ctk/2/prod_display_image/1613378298.5141--2021-02-1514:08:18--738?format=webp",
       "name": "Chicken Soup Bones - (Classic)",
       "des": "Mildly seasoned chicken bones that make a delicious, he...",
@@ -3115,7 +3348,7 @@
     },
     {
       "quantity": 1,
-      "id": 159,
+      "id": 220,
       "imgUrl": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_ikuk3ilucko/2/prod_display_image/1634458067.3282--2021-10-1713:37:47--905?format=webp",
       "name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des": "The classic chicken seekh kebab, marinated in tradition..",
@@ -3497,7 +3730,7 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": "129",
-      "strikePrice": "",
+      "strikePrice": "200",
       "off": "",
       "off_tag": "%OFF",
       "status": false
@@ -3630,7 +3863,7 @@
       " price_tag": "MRP:",
       "cuurency": "₹",
       "price": "338",
-      "strikePrice": "",
+      "strikePrice": "400",
       "off": "",
       "off_tag": "%OFF",
       "status": false
@@ -4277,26 +4510,10 @@
     }
   ],
   "cart": [
-    {
-      "quantity": 1,
-      "id": 70,
-      "imgUrl": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/958f431a-9b65-3430-2c3e-90f5e3aed0d2/original/1599923920.2257--2020-09-1220_48_40--738.jpeg?format=webp",
-      "name": "Premium Mackerel (Bangda) Small - Whole, Cleaned",
-      "des": "Small-sized, gutted and cleaned Mackerel with head and tail intact, defined by its taut flesh.",
-      "net_tag": "Net wt:",
-      "net": "500",
-      "gross_tag": "Gross:",
-      "gross": "650",
-      "unit": "gms",
-      "price_tag": "MRP:",
-      "cuurency": "₹",
-      "price": "249",
-      "strikePrice": "",
-      "off": "",
-      "off_tag": "%OFF",
-      "status": false
-    }
+    
   ],
-  "signupdata": [],
+  "signupdata": [
+  
+  ],
   "userprofile": []
 }

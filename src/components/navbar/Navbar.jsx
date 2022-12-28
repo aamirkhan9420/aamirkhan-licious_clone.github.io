@@ -151,7 +151,8 @@ export default function Navbar({ handleBillforIncreament,setText,locationstate,s
         </MenuList>
       </Menu>
       {/* category end */}
-<MobileNumbeEnterSlider locationstate={locationstate} locality={locality}/>
+      
+<MobileNumbeEnterSlider locationstate={locationstate} locality={locality} totalBill={totalBill}/>
 <AddToCart  handleBillforIncreament={ handleBillforIncreament} locality={locality}
 totalBill={totalBill} cuurency={cuurency}
 subtotal={subtotal} deliverycharge={deliverycharge} discount={discount}   handleDeletecard={handleDeletecard}   handleQuantityIncreament={handleQuantityIncreament} handleQuantityDecreament={handleQuantityDecreament} 

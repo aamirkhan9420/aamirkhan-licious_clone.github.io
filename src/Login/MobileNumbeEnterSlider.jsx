@@ -5,10 +5,10 @@ import { useState } from 'react';
 import { useEffect } from 'react';
 import { BsPerson } from "react-icons/bs";
 import { useDispatch, useSelector } from 'react-redux';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { deletUser, getuserdata, signUpFun } from '../redux/AuthReducer/action';
 import style from "./MobileNumbeEnterSlider.module.css"
-export default function MobileNumbeEnterSlider({ locationstate ,locality}) {
+export default function MobileNumbeEnterSlider({ locationstate ,locality,totalBill}) {
   let [value, setValue] = useState("")
   let [otp,setOtp]=useState("")
   let [show, setShow] = useState(false)
@@ -20,6 +20,9 @@ export default function MobileNumbeEnterSlider({ locationstate ,locality}) {
   let userData=useSelector((state)=>{
         return state.AuthReducer.userData
   })
+  let cartData = useSelector((state) => {
+    return state.AppReducer.cartData
+})
   
   console.log(userData)
   let dispatch = useDispatch()
@@ -63,7 +66,7 @@ export default function MobileNumbeEnterSlider({ locationstate ,locality}) {
     setTimeout(() => {
       toast({
         title: 'Account created.',
-        description: `One Time OTP is: ${OTP}`,
+        description: `One time OTP is: ${OTP}`,
         status: 'success',
         duration: 9000,
         isClosable: true,
@@ -120,13 +123,13 @@ export default function MobileNumbeEnterSlider({ locationstate ,locality}) {
       setShowOtpInvalid(true)
       setTextContaint("Invalid OTP")
      }
-     else{
+     else {
 
        setShow(!show)
        setValue("") 
        setOtp("")
        onClose()
-      navigate("/paymentpage",{replace:true} ,{state:{locality}})
+      navigate(location,{replace:true} ,{state:{locality}})
    
      }
     
@@ -152,9 +155,12 @@ export default function MobileNumbeEnterSlider({ locationstate ,locality}) {
   <MenuList>
   <MenuItem className={style.profileOptionsImg} ><img src="https://i0.wp.com/www.indiaretailing.com/wp-content/uploads/2022/09/Licious-Logo.png?resize=681%2C330&ssl=1" alt="" /></MenuItem>
 
-    <MenuItem className={style.profileOptions}>Account</MenuItem>
+  <MenuItem className={style.profileOptions}>Account</MenuItem>
     <MenuItem className={style.profileOptions}>My Rewards</MenuItem>
+    {cartData.length>0?<Link to={"/Myorder"} state={totalBill}>
     <MenuItem className={style.profileOptions}>My Orders</MenuItem>
+    </Link> : <MenuItem className={style.profileOptions}>My Orders</MenuItem>}
+  
     <MenuItem className={style.profileOptions}>Refer a friend</MenuItem>
     <MenuItem className={style.profileOptions} onClick={()=>handleDeleteUser()}>Logout</MenuItem>
   </MenuList>

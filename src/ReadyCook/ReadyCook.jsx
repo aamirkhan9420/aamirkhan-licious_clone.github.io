@@ -43,7 +43,7 @@ export default function ReadyCook({ handleQuantityIncreament, handleQuantityDecr
     }, [dispatch, cartGet])
     return (
         <div className={style.fish_container}>
-            <div className={style.fish_filter_nav}></div>
+         
 
             <div className={style.fish_main_parent}>
                 <div className={style.fish_parent_grid_div}>

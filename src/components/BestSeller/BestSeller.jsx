@@ -1,10 +1,11 @@
 import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { getData } from '../../redux/AppReducer/action'
+import SwiperFunc from '../../Swiper/Swiper'
 
 import Storage from '../storage/Storage'
 import "./BestSeller.css"
-export default function BestSeller() {
+export default function BestSeller({handleQuantityIncreament,handleQuantityDecreament,handlePost}) {
   
   let dispatch=useDispatch()
   let foodData=useSelector((state)=>{
@@ -25,8 +26,8 @@ export default function BestSeller() {
             <h1>Best Sellers</h1>
        
         </div>
-        <Storage props={foodData}/>
-        
+        {/* <Storage /> */}
+        <SwiperFunc foodData={foodData} handleQuantityIncreament={handleQuantityIncreament}handleQuantityDecreament={handleQuantityDecreament}handlePost={handlePost} />
     </div>
   )
 }

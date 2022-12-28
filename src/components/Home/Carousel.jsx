@@ -11,7 +11,7 @@ export default function ControlledCarousel() {
 
   return (
     <Carousel activeIndex={index} onSelect={handleSelect}  >
-      <Carousel.Item>
+      <Carousel.Item  className={style.big_img_container}>
         <img
           className="d-block w-100"
           src="https://d2407na1z3fc0t.cloudfront.net/Slider/banner_62e142fbed5a8"
@@ -19,7 +19,7 @@ export default function ControlledCarousel() {
         />
         
       </Carousel.Item>
-      <Carousel.Item className={style.big_bottom_img_div}>
+      <Carousel.Item >
         <img
           className="d-block w-100"
           src="https://d2407na1z3fc0t.cloudfront.net/Slider/banner_63630e9d6ba0e"
@@ -28,14 +28,8 @@ export default function ControlledCarousel() {
 
        
       </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src="https://d2407na1z3fc0t.cloudfront.net/Slider/banner_62e142fbed5a8"
-          alt="Third slide"
-        />
+    
 
-      </Carousel.Item>
     </Carousel>
   );
 }
